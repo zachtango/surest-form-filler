@@ -1,0 +1,55 @@
+{
+    "form_1": {
+        "member_id": "123456789012",
+        "first_name": "John",
+        "middle_initial": "A",
+        "last_name": "Doe",
+        "dob": "01/01/1990",
+        "group_number": "12345678",
+        "employer": "ExampleCorp"
+    },
+    "form_2": {
+        "first_name": "Jane",
+        "middle_initial": "B",
+        "last_name": "Smith",
+        "member_id": "987654321098",
+        "date_of_birth": "02/02/1985",
+        "street_address": "123 Main St Apt 101",
+        "city": "Example City",
+        "state": "NY",
+        "zip_code": "12345"
+    },
+    "form_3": {
+        "is_foreign": false
+    },
+    "form_4": {
+        "service_type": "Medical Claim (All other types)",
+        "place_of_service": "Office (11)"
+    },
+    "form_5": {
+        "provider_name": "John Smith",
+        "provider_npi": "1234567890",
+        "provider_facility": "",
+        "provider_tin": "777777777",
+        "provider_address": "123 Medical Plaza",
+        "provider_city": "NYC",
+        "provider_state": "NY",
+        "provider_zip": "12345"
+    },
+    "form_6_entries": [
+        {
+            "date_of_service": "01/15/2024",
+            "procedure_code": "E0601",
+            "diagnosis_code": "Z00.00",
+            "charges": "150.00",
+            "add_another": false
+        }
+    ],
+    "form_7": {
+        "total_charge": "1200.00",
+        "amount_paid": "0.00"
+    },
+    "form_11": {
+        "pdf_path": "Invoice.pdf"
+    }
+} 
